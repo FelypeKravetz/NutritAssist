@@ -1,6 +1,6 @@
 NutritAssist
 
-NutriCalc é uma aplicação de calculadora de nutrição desenvolvida em Python com Tkinter. Permite aos usuários calcular recomendações diárias de alimentos com base em informações como idade, peso, altura, sexo e nível de atividade física.
+NutritAssist é uma aplicação de calculadora de nutrição desenvolvida em Python com Tkinter. Permite aos usuários calcular recomendações diárias de alimentos com base em informações como idade, peso, altura, sexo e nível de atividade física.
 
 Funcionalidades
 
